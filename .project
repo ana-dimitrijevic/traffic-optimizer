@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>traffic-optimizer</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/res/icon-search.png</name>
+			<type>1</type>
+			<location>D:/Github/traffic-optimizer/src/res/icon-search.png</location>
+		</link>
+		<link>
+			<name>src/res/icon-tag.png</name>
+			<type>1</type>
+			<location>C:/Users/Ana/Desktop/proradiPls/FXGraphAlgorithmSimulator-master/src/res/icon-tag.png</location>
+		</link>
+		<link>
+			<name>src/res/info-icon.png</name>
+			<type>1</type>
+			<location>D:/Github/traffic-optimizer/src/res/info-icon.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
